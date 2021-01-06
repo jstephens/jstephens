@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+For current projects, skills, and ways to contact me, see my site:
+### jstephens.io
+
 <!--
 **jamieat/jamieat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
