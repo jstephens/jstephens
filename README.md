@@ -4,6 +4,7 @@ For current projects, skills, and ways to contact me, see my site:
 ### http://jstephens.io
 
 🔭 I’m currently working on graduate school.
+
 🌱 I’m currently learning machine learning, OCaml, and parallel processing.
 
 <!--
