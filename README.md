@@ -1,15 +1,18 @@
 ### Hi there 👋
 
 For current projects, skills, and ways to contact me, see my site:
-### jstephens.io
+### http://jstephens.io
+
+🔭 I’m currently working on graduate school.
+🌱 I’m currently learning machine learning, OCaml, and parallel processing.
 
 <!--
 **jamieat/jamieat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
