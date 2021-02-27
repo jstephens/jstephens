@@ -5,8 +5,6 @@ For current projects, skills, and ways to contact me, see my site:
 
 🔭 I’m currently working on graduate school.
 
-🌱 I’m currently learning machine learning, OCaml, and parallel processing.
-
 <!--
 **jamieat/jamieat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
