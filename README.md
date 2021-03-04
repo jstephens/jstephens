@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 For current projects, skills, and ways to contact me, see my site:
-### http://jstephens.io
+### http://www.jstephens.io
 
 🔭 I’m currently working on graduate school.
 
