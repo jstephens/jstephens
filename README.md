@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-For current projects, skills, and ways to contact me, see my site:
-### http://www.jstephens.io
+For current projects, skills, and ways to contact me, see my site: [jstephens.io]: https://www.jstephens.io
 
-🔭 I’m currently working on graduate school.
-
-<!--
-**jamieat/jamieat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Between April 19 and July 23 I'm enrolled in Metis' [Data Science and Machine Learning Bootcamp]: https://www.thisismetis.com/bootcamps/online-machine-learning-bootcamp.
